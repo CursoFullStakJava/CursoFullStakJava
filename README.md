@@ -1,6 +1,6 @@
 - 👋 Olá!  Sou Vinícius Almeida
-- 👀 Estou cursando o curso FullStack Java da Eback 
-- 🌱 Atualmente estou me desenvolvendo e aprendendo para logo entrar no mercado de trabalho
+- 👀 Estou cursando o curso FullStack Java da EBAC.
+- 🌱 Atualmente estou me desenvolvendo e aprendendo para logo entrar no mercado de trabalho.
 - 💞️ Por enquanto não estou colaborando, pois ainda estou adquirindo conhecimento suficiente para tal.
 - 📫 Você pode me achar em vinicius.quadros@icloud.com 
 
